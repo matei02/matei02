@@ -15,7 +15,7 @@ I build LLM-powered automations, AI agents and software features, plus the backe
 | [n8n-website-forms](https://github.com/matei02/n8n-website-forms) | Waitlist and contact form backends for the landing page of PawPath, the company we created in an entrepreneurship minor, with duplicate checks and Telegram alerts | n8n, webhooks, Google Sheets, Gmail, Telegram |
 | [special-night-razor-pages](https://github.com/matei02/special-night-razor-pages) | Rental shop with a Razor Pages website and a WinForms staff app on one layered core | C#, .NET 6, ASP.NET Core, SQL Server |
 
-Every repo has an honest README: what works, what doesn't, and what I would change for production.
+Every README says what works, what doesn't, and what I would change for production.
 
 ## Tools I use
 
